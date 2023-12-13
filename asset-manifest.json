@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4bcb61d4.css",
+    "main.js": "/portfolio/static/js/main.a3ca0c30.js",
+    "static/media/landing.png": "/portfolio/static/media/landing.09327540075aabb4d0c1.png",
+    "static/media/pngwing.com.png": "/portfolio/static/media/pngwing.com.6170bacefd8a1f69ca74.png",
+    "static/media/store.png": "/portfolio/static/media/store.c9d80b50ae4f94c007aa.png",
+    "static/media/img.png": "/portfolio/static/media/img.8ee003c1d7b8e2d1c83b.png",
+    "static/media/img2.png": "/portfolio/static/media/img2.eb171f5d70c3046975c8.png",
+    "static/media/quote.png": "/portfolio/static/media/quote.137e39f21c6278e51c4e.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.fd826dfb7e071c49da83.pdf",
+    "static/media/react.png": "/portfolio/static/media/react.809fed23bcdd686de66e.png",
+    "static/media/python.png": "/portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.bdbd1eb709e4c13258d2.png",
+    "static/media/app-management.png": "/portfolio/static/media/app-management.8833895942c0ff69c1b2.png",
+    "static/media/nodejs.png": "/portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/c-sharp.png": "/portfolio/static/media/c-sharp.4a32f53d425c7ad4cb05.png",
+    "static/media/c-.png": "/portfolio/static/media/c-.24a8f93854ab092f17a7.png",
+    "static/media/php.png": "/portfolio/static/media/php.c67d24b47808dc6611ed.png",
+    "static/media/wordpress.png": "/portfolio/static/media/wordpress.11ed091523e3152b651f.png",
+    "static/media/html.png": "/portfolio/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/css-3.png": "/portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/js.png": "/portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/portfolio/index.html",
+    "main.4bcb61d4.css.map": "/portfolio/static/css/main.4bcb61d4.css.map",
+    "main.a3ca0c30.js.map": "/portfolio/static/js/main.a3ca0c30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bcb61d4.css",
+    "static/js/main.a3ca0c30.js"
+  ]
+}
